@@ -1,2 +1,2 @@
-# Infinite-Rip
-Offseason code for team 6171.
+# Infinite-Rip Test Branch
+Offseason Testing code for 6171.
